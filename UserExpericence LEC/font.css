@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'LSpartan Bold';
+    src: url(fonts/LeagueSpartan-VariableFont_wght.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Poppins Regular';
+    src: url(fonts/pico-main/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins Light';
+    src: url(fonts/pico-main/Poppins-Light.ttf);
+}
+@font-face {
+    font-family: 'Poppins ExtraBold';
+    src: url(fonts/pico-main/Poppins-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Poppins ExtraLight';
+    src: url(fonts/pico-main/Poppins-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url(fonts/pico-main/Poppins-Medium.ttf);
+}
